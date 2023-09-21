@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Ficha
+comment0.text=\r\n\ Esta\ clase\ crea\ una\ ficha\ con\ los\ valores\ ingresados\r\n\r\n\ @JTM\ \r\n\ @31/08/23\r\n
+comment1.params=valorSuperior\ valorInferior
+comment1.target=Ficha(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ficha\r\n
+comment10.params=valor\ inicio\ fin
+comment10.target=void\ mostrarPuntos(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ voltearFicha()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=void\ girarFicha()
+comment4.params=valor
+comment4.target=void\ moveLeftFicha(int)
+comment5.params=valor
+comment5.target=void\ moveRightFicha(int)
+comment6.params=valor
+comment6.target=void\ moveDownFicha(int)
+comment7.params=valor
+comment7.target=void\ moveUpFicha(int)
+comment8.params=
+comment8.target=void\ fichaOriginal()
+comment9.params=
+comment9.target=void\ fichaEnConsola()
+numComments=11
